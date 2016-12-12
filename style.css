@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    color:black;
+}
+table {
+    margin-left:auto; 
+    margin-right:auto;
+}
+td {
+    color:black;
+    font-family: Sans-serif;
+}
+td.red {color:red;}
+#in {
+    border: 2px solid black;
+    text-align: center;
+    display: inline-block;
+    margin-left:auto; 
+    margin-right:auto;
+    padding: 25px;
+}
+#out {
+    text-align: center;
+    margin-left:auto; 
+    margin-right:auto;
+    padding: 25px;
+}
